@@ -1,0 +1,12 @@
+{
+    "name": "binarta.i18n.jsonp",
+    "version": "0.0.0",
+    "main": "./src/i18n.jsonp.js",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
